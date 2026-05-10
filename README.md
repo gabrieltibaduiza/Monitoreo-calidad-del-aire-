@@ -1,37 +1,37 @@
-# 🌍 Sistema IoT de Monitoreo de Calidad del Aire
+# Sistema IoT de Monitoreo de Calidad del Aire
 
-## 📌 Descripción
+## Descripción
 Este proyecto implementa un sistema basado en IoT para el monitoreo de la calidad del aire en Nobsa, Boyacá, mediante sensores de bajo costo.
 
-## 🎯 Objetivo
+## Objetivo
 Medir y visualizar en tiempo real variables ambientales como:
 - PM2.5 y PM10
 - Temperatura
 - Humedad
 
-## ⚙️ Tecnologías utilizadas
+## Tecnologías utilizadas
 - ESP32 / Arduino
 - Sensor PMS5003
 - Sensor DHT22
 - Plataforma IoT (ThingSpeak / Firebase)
 - HTML, CSS, JavaScript
 
-## 🧠 Funcionamiento
+## Funcionamiento
 1. Sensores capturan datos
 2. Microcontrolador procesa información
 3. Datos se envían a la nube
 4. Se visualizan en dashboard web
 
-## 📊 Resultados
+## Resultados
 - Datos en tiempo real
 - Gráficas de comportamiento ambiental
 - Sistema funcional validado (TRL 5)
 
-## 📸 Evidencias
+## Evidencias
 Ver carpeta `/evidencias`
 
-## 👨‍💻 Autor
+## Autor
 Proyecto académico – Ingeniería
 
-## 📜 Licencia
+## Licencia
 MIT
